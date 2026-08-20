@@ -1,0 +1,16 @@
+{
+  "version": "5.8.0",
+  "released": "2026-08-21",
+  "download_url": "https://github.com/kdpnicks/AY-Automation-Updates/releases/latest/download/AY_Automation_Update.zip",
+  "sha256": "a986de69d6a7cbff8695348d24818c3cf612a93fa64cc75e4a9e761b0f1f1071",
+  "notes": [
+    "Post-login AI Agency workspace with ember-orange and neon styling",
+    "Lightweight qwen2.5:0.5b Ollama model (about 398 MB)",
+    "New cinematic black-and-electric-lime AY interface",
+    "User signup and email OTP access",
+    "Modern Developer workspace",
+    "Windows installer and shortcut support",
+    "Optional automatic Ollama AI and lightweight Qwen setup",
+    "GitHub Check for Update channel"
+  ]
+}
